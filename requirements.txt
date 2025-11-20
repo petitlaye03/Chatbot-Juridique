@@ -1,0 +1,17 @@
+pytesseract
+pdf2image
+pillow
+PyMuPDF
+pymilvus
+torch
+FlagEmbedding
+"pymilvus[model]"
+bitsandbytes 
+accelerate
+transformers
+streamlit 
+vosk
+sounddevice
+fastapi
+pydantic
+uvicorn
