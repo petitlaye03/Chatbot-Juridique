@@ -67,21 +67,13 @@ Pipeline global :
 
 5. Installation et utilisation
   1. Cloner le dépôt
-  git clone https://github.com/username/chatbot-juridique
+  git clone https://github.com/petitlaye03/Chatbot-Juridique
   cd chatbot-juridique
   
   2. Installer les dépendances
   pip install -r requirements.txt
   
-  3. Installer les modèles
-  
-  Dans le dossier /models/README_MODELS.md, tu préciseras :
-  
-  modèle Vosk FR
-  
-  modèle Ollama (ollama pull qwen2.5:3b)
-  
-  4. Lancer le chatbot
+  3. Lancer le chatbot
   streamlit run src/app.py
   
 6. Exemples de questions juridiques
