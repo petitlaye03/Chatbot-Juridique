@@ -68,7 +68,6 @@ Pipeline global :
 5. Installation et utilisation
   1. Cloner le dépôt
   git clone https://github.com/petitlaye03/Chatbot-Juridique
-  cd chatbot-juridique
   
   2. Installer les dépendances
   pip install -r requirements.txt
